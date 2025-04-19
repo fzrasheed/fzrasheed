@@ -2,19 +2,9 @@
 <h3 align="center">A passionate CS Student from the Chicagoland Area</h3>
 <img align="right" alt="Coding" width="400" src = https://thumbs.dreamstime.com/b/programmer-coding-laptop-computer-work-desk-vector-illustration-cartoon-flat-freelancer-sitting-working-table-127242459.jpg>
 
-- 🔭 I’m currently working on **an Interstellar Travel App programmed in C++**
-
-- 🌱 I’m currently learning **Graph algorithms (e.g., Dijkstra's algorithm, Prim's algorithm)**
-
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 🤝 I’m looking for help with **Solving algorithmic challenges related to data structures, sorting, and searching**
-
-- 💬 Ask me about **Time and space complexity analysis**
-
 - 📫 How to reach me **fatimarasheed959@gmail.com**
-
-- ⚡ Fun fact **I can speak 3 languages!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
